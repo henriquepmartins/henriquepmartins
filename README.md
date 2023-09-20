@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquepmartins&show_icons=true&locale=en&layout=compact" alt="henriquepmartins" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquepmartins&show_icons=true&locale=en" alt="henriquepmartins" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquepmartins&" alt="henriquepmartins" /></p>
