@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, JavaSpring and NodeJS.**
 
-- 📫 How to reach me **henriquepermartins@gmail.com**
+- 📫 How to reach me **henriquepermartins@gmail.com** or **https://henriquepmartins.github.io/portifolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
