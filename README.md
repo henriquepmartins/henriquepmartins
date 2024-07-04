@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Computer Science at CESUPA**
 
-- 🌱 I’m currently focusing on getting deeper into **Java, Spring Boot and JPA.**
+- 🌱 I’m currently focusing on getting deeper into **Java, Spring Boot, NestJS, React and NextJS**
 
 - 📫 How to reach me **henriquepermartins@gmail.com** or **https://henriquepmartins.github.io/portfolio/**
 
