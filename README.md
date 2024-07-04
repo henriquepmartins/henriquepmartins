@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently focusing on getting deeper into **Java, Spring Boot, NestJS, React and NextJS**
 
-- 📫 How to reach me **henriquepermartins@gmail.com** or **https://henriquepmartins.github.io/portfolio/**
+- 📫 How to reach me **henriquepermartins@gmail.com** or **https://henriquepermartins.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
