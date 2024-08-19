@@ -1,14 +1,15 @@
 <div>
   <h3>
-  Hi, I'm Henrique Pereira!</h3>
+  👋 Hi, I'm Henrique Pereira!</h3>
   
 </div>
 
     about me 
     
     │▸  brazilian - (pt/br + english)
-    │   ┗ ▸ fullstack & software engineer                     
-    │▸ getting deeper into:
+        ┗ ▸ computer science major (4/8)                     
+    │     ▸ fullstack & software engineer
+    │▸ getting deeper into
         ┗ ▸  typescript
           ▸  next.js
           ▸  nest.js
@@ -22,8 +23,9 @@
  <div style="display: inline_block" align="center">
   <br>
   <img align="center" alt="Henrique-Typescript" height="40" width="40" src="https://skillicons.dev/icons?i=typescript"/>
-  <img align="center" alt="Henrique-Js" height="40" width="40" src="https://skillicons.dev/icons?i=javascript">
   <img align="center" alt="Henrique-NextJs" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs"/>
+  <img align="center" alt="Henrique-Java" height="40" width="40" src="https://skillicons.dev/icons?i=java">
+  <img align="center" alt="Henrique-Js" height="40" width="40" src="https://skillicons.dev/icons?i=javascript">
   <img align="center" alt="Henrique-ReactJs" height="40" width="40" src="https://skillicons.dev/icons?i=react"/>
   <img align="center" alt="Henrique-Tailwind" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind">
   <img align="center" alt="Henrique-Git" height="40" width="40" src="https://skillicons.dev/icons?i=git">
