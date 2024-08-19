@@ -9,7 +9,7 @@
     │▸  brazilian - (pt/br + english)
         ┗ ▸ computer science major (4/8)                     
     │     ▸ fullstack & software engineer
-    │▸ getting deeper into
+    │▸  getting deeper into
         ┗ ▸  typescript
           ▸  next.js
           ▸  nest.js
