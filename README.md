@@ -1,20 +1,60 @@
-<h1 align="center">Hi 👋, I'm Henrique Martins</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+<div>
+  <h3>
+  Hi, I'm Henrique Pereira</h3><p>Full Stack Software Engineer from Brazil.</p>
+  
+</div>
 
-- 🔭 I’m currently studying **Computer Science at CESUPA**
+    about me 
+    
+    │▸  brazilian - (pt/br + english)
+    │   ┗ ▸ fullstack & software engineer                     
+    │▸ learning
+        ┗ ▸  typescript
+          ▸  next.js
+          ▸  nest.js
+          ▸  API's
+          ▸  sanity.io
+          ▸  tailwindcss
+<br>
+<details>
+  <summary>My Skills ⚡</summary>
+<div style="display: inline_block" align="center">
+ <div style="display: inline_block" align="center">
+  <br>
+  <img align="center" alt="Henrique-Typescript" height="40" width="40" src="https://skillicons.dev/icons?i=typescript"/>
+  <img align="center" alt="Henrique-Js" height="40" width="40" src="https://skillicons.dev/icons?i=javascript">
+  <img align="center" alt="Henrique-NextJs" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs"/>
+  <img align="center" alt="Henrique-ReactJs" height="40" width="40" src="https://skillicons.dev/icons?i=react"/>
+  <img align="center" alt="Henrique-Tailwind" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind">
+  <img align="center" alt="Henrique-Git" height="40" width="40" src="https://skillicons.dev/icons?i=git">
+  <img align="center" alt="Henrique-Github" height="40" width="40" src="https://skillicons.dev/icons?i=github">
+  <br><br>
+  <img align="center" alt="Henrique-NodeJs" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs"/>
+  <img align="center" alt="Henrique-Nest" height="40" width="40" src="https://skillicons.dev/icons?i=nest"/>
+  <img align="center" alt="Henrique-Prisma" height="40" width="40" src="https://skillicons.dev/icons?i=prisma"/>
+  <img align="center" alt="Henrique-MySql" height="40" width="40" src="https://skillicons.dev/icons?i=mysql"/>
+  <img align="center" alt="Henrique-PostgreSql" height="40" width="40" src="https://skillicons.dev/icons?i=postgresql"/>
+   <img align="center" alt="Henrique-MongoDb" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb"/>
+  <img align="center" alt="Henrique-Docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker" />
+  <img align="center" alt="Henrique-Vercel" height="40" width="40" src="https://skillicons.dev/icons?i=vercel"/>
+ </div>
+</div>
+</details>
 
-- 🌱 I’m currently focusing on getting deeper into **Java, Spring Boot, NestJS, React and NextJS**
+<details>
+  <summary>Github Stats 🐲</summary>
+<div align="center">
+   <img align="center" src="https://simple-github-stats.vercel.app/?user=henriquepmartins&date=02/02/2023" />
+</div>
+  
+  [^ This Github Stats is one of my projects!](https://github.com/Henriquecestari/SimpleGithubStats)
+</details>
 
-- 📫 How to reach me **henriquepermartins@gmail.com** or **https://henriquepermartins.vercel.app/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/herniquepereiramartins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herniquepereiramartins" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquepmartins&show_icons=true&locale=en&layout=compact" alt="henriquepmartins" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquepmartins&show_icons=true&locale=en" alt="henriquepmartins" /></p>
+<details>
+  <summary>Contacts 🔎</summary>
+<div align="center"> 
+  <a href = "mailto:henriquepermartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/henriquepereiramartins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<br>
+</details>
