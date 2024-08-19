@@ -1,6 +1,6 @@
 <div>
   <h3>
-  Hi, I'm Henrique Pereira</h3>
+  Hi, I'm Henrique Pereira!</h3>
   
 </div>
 
@@ -8,7 +8,7 @@
     
     │▸  brazilian - (pt/br + english)
     │   ┗ ▸ fullstack & software engineer                     
-    │▸ learning
+    │▸ getting deeper into:
         ┗ ▸  typescript
           ▸  next.js
           ▸  nest.js
