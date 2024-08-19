@@ -1,6 +1,6 @@
 <div>
   <h3>
-  Hi, I'm Henrique Pereira</h3><p>Full Stack Software Engineer from Brazil.</p>
+  Hi, I'm Henrique Pereira</h3>
   
 </div>
 
