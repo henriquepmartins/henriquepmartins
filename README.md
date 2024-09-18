@@ -7,7 +7,7 @@
     about me 
     
     │▸  brazilian - (pt/br + english)
-    │   ┗ ▸ computer science major (4/8)                     
+    │   ┗ ▸ software engineering major (5/8)                     
     │     ▸ fullstack & software engineer
     │▸  getting deeper into
         ┗ ▸  typescript
