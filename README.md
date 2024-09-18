@@ -1,6 +1,6 @@
 <div>
   <h3>
-  👋 Hi, I'm Henrique Pereira!</h3>
+  💻 hi there, I'm Henrique Pereira!</h3>
   
 </div>
 
