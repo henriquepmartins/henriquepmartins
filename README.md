@@ -13,8 +13,8 @@
         ┗ ▸  typescript
           ▸  next.js
           ▸  nest.js
-          ▸  API's
-          ▸  sanity.io
+          ▸  postgresql
+          ▸  rust
           ▸  tailwindcss
 
 <br>
