@@ -9,7 +9,7 @@
     │▸  brazilian - (pt/br + english)
     │   ┗ ▸ software engineering (6/8)
     │     ▸ fullstack & software engineer
-    │▸  learning
+    │▸  diving into
         ┗ ▸  typescript
           ▸  elysiajs
           ▸  bun
