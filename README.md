@@ -7,7 +7,7 @@
     about me
 
     │▸  brazilian - (pt/br + english)
-    │   ┗ ▸ software engineering (6/8)
+    │   ┗ ▸ software engineering (6/9)
     │     ▸ fullstack & software engineer
     │▸  diving into
         ┗ ▸  typescript
