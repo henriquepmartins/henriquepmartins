@@ -8,7 +8,7 @@
 
     │▸  brazilian - (pt/br + english)
     │   ┗ ▸ software engineering (6/9)
-    │     ▸ backend & software engineer
+    │     ▸ backend & data engineer
     │▸  diving into
         ┗ ▸  typescript
           ▸  elysiajs
