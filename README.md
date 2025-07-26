@@ -2,7 +2,7 @@ Hello, I’m **Henrique Pereira Martins**.
 
 I’m a **Backend Software Engineer** based in **Brazil**, interested in microservices, design systems, user/dev experience, and under-engineering.
 
-I’m currently studying **Java**, **Spring Boot**, and **microservices** to build high-impact software solutions.
+Currently studying **Java**, **Spring Boot**, and **microservices** to build high-impact software solutions.
 
 Also, I'm pursuing a **Software Engineering** degree at [UNDB](https://undb.edu.br).
 
